@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Noxtify
+Comment=Player musical AMOLED com busca YouTube Music e recomendações adaptativas
+Exec=noxtify
+Icon=multimedia-player
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Player;
+StartupNotify=true
